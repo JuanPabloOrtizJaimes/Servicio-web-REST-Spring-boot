@@ -39,5 +39,6 @@
 
 
 ## Ejecutar Aplicación ✔️
+ - Clonan el repositorio o descargan el archivo zip.
  - Por ultimo una vez abran el proyecto en spring tool suite en el apartado de src\main\resources\application.properties abren ese archivo y cambian el nombre de usuario y la clave por los creados y en el proyecto dan click derecho run as Spring Boot App y luego desde postman pueden realizar las pruebas del servicio rest cada una se encuentra en src\main\java\com\mltutoriales\controller\EmpleadoController.java
  - Cuando dejen de utilizar la base de datos cierran el sqldeveloper y buscan stop database y lo ejecutan.
