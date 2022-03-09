@@ -1,8 +1,9 @@
-# Tarea4-Arquitectura_Sistema
-Tecnología y atributos de calidad - Django
+# Servicio-web-REST-Spring-boot
+
 # Requisitos:clipboard:
 - JDK 17
 - Oracle Database XE Prior Release Archive
+- Postman
 
   
 
